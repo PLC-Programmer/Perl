@@ -7,7 +7,7 @@
 # poll temperature data (via UPD messaging) from Ethernetbox Ethernet Thermometer, i.e. network server
 # so far only one sensor is being read: see $sensor
 #
-# RSa, 2012-12-29, 2013-01-05, 2016-10-27/28/29/31
+# 2012-12-29, 2013-01-05, 2016-10-27/28/29/31
 #
 # needs installed Perl modules: none
 #
